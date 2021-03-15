@@ -13,6 +13,10 @@ c   = 4180;      % Solar collector plate specific heat (J kg °C)
 V   = 0.075;     % Solar collector fliui volume (m3)
 
 
+
+
+
+
 % Estimation of coefficents 
 C   = rho*c*V;
 
